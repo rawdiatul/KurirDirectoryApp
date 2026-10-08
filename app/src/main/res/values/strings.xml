@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KurirDirectory</string>
+    <string name="app_subtitle">Direktori kurir &amp; pengguna</string>
+    
+    <!-- Search and Filters -->
+    <string name="search_hint">Cari kurir, username, email, perusahaan...</string>
+    <string name="filter_all">Semua</string>
+    <string name="filter_favorite">Favorit</string>
+    <string name="label_company">Perusahaan</string>
+    <string name="all_companies">Semua Perusahaan</string>
+    <string name="label_sort">Urutkan</string>
+    <string name="sort_name_asc">Nama (A-Z)</string>
+    <string name="sort_name_desc">Nama (Z-A)</string>
+    
+    <!-- Statistics -->
+    <string name="stat_found_format">%d Kurir ditemukan</string>
+    <string name="stat_filtered_format">Menampilkan %1$d dari %2$d kurir</string>
+    
+    <!-- States -->
+    <string name="loading_data">Memuat data kurir dari server...</string>
+    <string name="error_title">Gagal memuat data</string>
+    <string name="error_message">Periksa koneksi internet Anda.</string>
+    <string name="btn_retry">Coba Lagi</string>
+    <string name="empty_title">Tidak ada kurir yang cocok dengan pencarian Anda</string>
+    <string name="empty_message">Coba gunakan kata kunci atau filter yang berbeda.</string>
+    <string name="btn_reset_filter">Reset Pencarian &amp; Filter</string>
+    <string name="refresh">Muat Ulang</string>
+
+    <!-- Detail Activity -->
+    <string name="detail_title">Detail Kurir</string>
+    <string name="btn_copy_email">Salin Email</string>
+    <string name="btn_copy_phone">Salin Nomor</string>
+    <string name="toast_email_copied">Email berhasil disalin</string>
+    <string name="toast_phone_copied">Nomor berhasil disalin</string>
+    <string name="section_contact">Informasi Kontak</string>
+    <string name="section_company">Informasi Perusahaan</string>
+    <string name="section_address">Alamat Pengiriman</string>
+    <string name="label_email">Email</string>
+    <string name="label_phone">Telepon</string>
+    <string name="label_website">Website</string>
+    <string name="label_company_name">Perusahaan</string>
+    <string name="label_catchphrase">Slogan</string>
+    <string name="label_bs">Spesialisasi</string>
+    <string name="label_street">Alamat</string>
+    <string name="label_city_zip">Kota &amp; Kode Pos</string>
+    <string name="label_geo">Koordinat GPS</string>
+    <string name="status_favorite_added">Ditambahkan ke favorit</string>
+    <string name="status_favorite_removed">Dihapus dari favorit</string>
+</resources>

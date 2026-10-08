@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#1E3A8A</color>
+    <color name="primary_dark">#0F172A</color>
+    <color name="primary_light">#2563EB</color>
+    <color name="primary_container">#DBEAFE</color>
+    <color name="primary_surface">#EFF6FF</color>
+    <color name="color_on_primary">#FFFFFF</color>
+
+    <color name="background">#F8FAFC</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="surface_variant">#F1F5F9</color>
+    <color name="border_stroke">#E2E8F0</color>
+
+    <color name="text_primary">#0F172A</color>
+    <color name="text_secondary">#64748B</color>
+    <color name="text_muted">#94A3B8</color>
+
+    <color name="favorite_red">#E11D48</color>
+    <color name="favorite_bg">#FFE4E6</color>
+
+    <color name="tag_company_bg">#E0F2FE</color>
+    <color name="tag_company_text">#0369A1</color>
+    <color name="tag_username_bg">#F1F5F9</color>
+    <color name="tag_username_text">#475569</color>
+
+    <color name="error_color">#DC2626</color>
+    <color name="error_bg">#FEF2F2</color>
+
+    <color name="avatar_navy">#1E3A8A</color>
+</resources>
